@@ -1,2 +1,2 @@
 # AnshikaGovil.github.io
-<embed src="https://AnshikaGovil.github.io/Docs/KWoc Project Report.pdf" type="application/pdf" />
+<embed src="https://AnshikaGovil.github.io/KWoC.pdf" type="application/pdf" />
